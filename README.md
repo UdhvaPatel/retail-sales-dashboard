@@ -30,7 +30,7 @@ This project showcases a professional **Sales Dashboard built in Power BI** usin
 - **Calculated Columns & Measures** – DAX
 
 ---
-> ![Dashboard Preview](Screenshot/Screenshot 2025-06-17 141719.png)
+[Dashboard Preview](Screenshot/Screenshot 2025-06-17 141719.png)
 
 ## 📁 Project Structure
 retail-sales-dashboard/
